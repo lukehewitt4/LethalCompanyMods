@@ -120,6 +120,23 @@
 [Info   : Unity Log] Overriding float
 [Info   : Unity Log] Gamma changed
 [Info   : Unity Log] Set gamma to new value: 0; (0.00, 0.00, 0.00, 0.00) (True)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
 [Info   : Unity Log] Saving changed settings
 [Info   : Unity Log] Changing gamma
 [Info   : Unity Log] override float value: 0
@@ -134,6 +151,7 @@
 [Info   : Unity Log] Set gamma to new value: 0; (0.00, 0.00, 0.00, 0.00) (True)
 [Info   : Unity Log] [FacepunchTransport] - Initialized access to Steam Relay Network.
 [Info   : Unity Log] [FacepunchTransport] - Fetched user Steam ID.
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
 [Info   : Unity Log] Set version num
 [Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
 [Info   : Unity Log] Changing gamma
@@ -142,12 +160,8 @@
 [Info   : Unity Log] Gamma changed
 [Info   : Unity Log] Set gamma to new value: 0; (0.00, 0.00, 0.00, 0.00) (True)
 [Info   : Unity Log] host button pressed
-[Info   : Unity Log] 1
-[Info   : Unity Log] 4
-[Info   : Unity Log] 12
-[Info   : Unity Log] 12
 [Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   : Unity Log] SETTING MAX PLAYERS TO 12!
+[Info   : Unity Log] SETTING MAX PLAYERS TO 16!
 [Info   : Unity Log] Displaying menu message
 [Info   : Unity Log] [Netcode] StartHost
 [Info   : Unity Log] [Netcode] Initialize
@@ -192,6 +206,7 @@
 [Info   : Unity Log] # powered lights: 0
 [Info   : Unity Log] level id: 0
 [Info   : Unity Log] Changing level
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
@@ -337,8 +352,11 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Info   : Unity Log] Started spectating
 [Info   : Unity Log] Started spectating
 [Info   : Unity Log] Started spectating
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Warning: Unity Log] [Netcode] Setting ownership twice? Client-ID 0 already owns NetworkObject ID 51!
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Warning: Unity Log] [Netcode] Setting ownership twice? Client-ID 0 already owns NetworkObject ID 67!
 [Info   : Unity Log] soumdmanager: True; False
 [Info   : Unity Log] Taking control of player Player and enabling camera!
 [Info   : Unity Log] Starting voice tracking for player: shaq
@@ -346,354 +364,111 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Info   : Unity Log] !!!! connectedPlayersAmount: 0
 [Info   : Unity Log] Has beta?: {hasBeta}
 [Info   : Unity Log] Has beta save data: True
-[Warning: Unity Log] [Dissonance:Recording] (20:54:24.335) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:4.816375)
-[Warning: Unity Log] [Dissonance:Recording] (20:54:24.591) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0.3666909)
+[Warning: Unity Log] [Dissonance:Recording] (21:00:07.814) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:4.399755)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
 [Warning:    LC_API] Asking all other players for their mod list..
-[Warning: Unity Log] [Dissonance:Recording] (20:54:31.520) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0.1500123)
 [Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Debug  :  ShipLoot] Calculating total ship scrap value.
+[Info   : Unity Log] Player joined w steamId: 76561198303715810
+[Info   : Unity Log] [FacepunchTransport] - Accepting connection from Steam user 0.
+[Info   : Unity Log] [Netcode] Client Connected
+[Info   : Unity Log] [FacepunchTransport] - Connected with Steam user 0.
+[Info   : Unity Log] Connection approval callback! Game version of client request: 16485,76561198303715810,BiggerLobbyVersion2.5.0
+[Info   : Unity Log] Joining client id: 1; Local/host client id: 0
+[Info   : Unity Log] Approved connection?: True. Connected players #: 1
+[Info   : Unity Log] Disapproval reason: 
+[Error  :  HarmonyX] Error while running static void LateCompany.Patches.ConnectionApproval_Patch::Postfix(Unity.Netcode.NetworkManager+ConnectionApprovalRequest request, Unity.Netcode.NetworkManager+ConnectionApprovalResponse response). Error: System.NullReferenceException: Object reference not set to an instance of an object
+  at LateCompany.Patches.ConnectionApproval_Patch.Postfix (Unity.Netcode.NetworkManager+ConnectionApprovalRequest request, Unity.Netcode.NetworkManager+ConnectionApprovalResponse response) [0x00019] in <ae2ce3a7518e4b4095ca40e614e19e57>:0 
+  at (wrapper dynamic-method) GameNetworkManager.DMD<GameNetworkManager::ConnectionApproval>(GameNetworkManager,Unity.Netcode.NetworkManager/ConnectionApprovalRequest,Unity.Netcode.NetworkManager/ConnectionApprovalResponse)
+[Info   : Unity Log] [Netcode] [Server-Side Client-Synchronization] NetworkObject serialization order:ChangableSuit(Clone)LocalItemHolderPlayerPhysicsBoxExtraPlayer6ServerItemHolderLocalItemHolderServerItemHolderExtraPlayer15PlayerPhysicsBoxExtraPlayer7LocalItemHolderExtraPlayer14PlayerPhysicsBoxPlayerPhysicsBoxLocalItemHolderExtraPlayer13PlayerPhysicsBoxLocalItemHolderServerItemHolderServerItemHolderServerItemHolderLocalItemHolderServerItemHolderEnvironmentChangableSuit(Clone)ChangableSuit(Clone)SkinwalkerNetworkManagerChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)LocalItemHolderExtraPlayer10PlayerPhysicsBoxLocalItemHolderServerItemHolderExtraPlayer9PlayerPhysicsBoxLocalItemHolderServerItemHolderExtraPlayer8PlayerPhysicsBoxExtraPlayer12ChangableSuit(Clone)PlayerPhysicsBoxServerItemHolderLocalItemHolderServerItemHolderPlayerPhysicsBoxLocalItemHolderServerItemHolderExtraPlayer4RoundManagerPlayersManager / HUDManagerPlayer (1)GlobalEffectsLightSwitchContainerTimeAndWeatherShipBuildModeBunkbedsFileCabinetStartGameLeverStorageClosetPropsSoundManagerExtraPlayer5PlayerPhysicsBoxLocalItemHolderServerItemHolderExtraPlayer11PlayerPhysicsBoxPlayer (3)PlayerClipboardManualStickyNoteItemServerItemHolderServerItemHolderServerItemHolderServerItemHolderPlayer (2)TerminalPlayerPhysicsBoxPlayerPhysicsBoxPlayerPhysicsBoxLocalItemHolderLocalItemHolderLocalItemHolderLocalItemHolderPlayerPhysicsBoxChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)ChangableSuit(Clone)HangarShip
 [Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Debug  :  ShipLoot] Calculating total ship scrap value.
-[Warning: Unity Log] [Dissonance:Recording] (20:54:52.102) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0.1500371)
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] Push to talk: rebind controls length: 1
-[Info   : Unity Log] Push to talk: rebind control binding index is -1
-[Info   : Unity Log] control #0: $T
-[Info   : Unity Log] bindingIndex of T : -1; display bindingIndex: 0
-[Info   : Unity Log] Walk forward: rebind controls length: 8
-[Info   : Unity Log] Walk forward: rebind control binding index is 1
-[Info   : Unity Log] control #0: $W
-[Info   : Unity Log] control #1: $S
-[Info   : Unity Log] control #2: $A
-[Info   : Unity Log] control #3: $D
-[Info   : Unity Log] control #4: $Left Stick/Up
-[Info   : Unity Log] control #5: $Left Stick/Down
-[Info   : Unity Log] control #6: $Left Stick/Left
-[Info   : Unity Log] control #7: $Left Stick/Right
-[Info   : Unity Log] bindingIndex of W : 1; display bindingIndex: 1
-[Info   : Unity Log] Walk back: rebind controls length: 8
-[Info   : Unity Log] Walk back: rebind control binding index is 2
-[Info   : Unity Log] control #0: $W
-[Info   : Unity Log] control #1: $S
-[Info   : Unity Log] control #2: $A
-[Info   : Unity Log] control #3: $D
-[Info   : Unity Log] control #4: $Left Stick/Up
-[Info   : Unity Log] control #5: $Left Stick/Down
-[Info   : Unity Log] control #6: $Left Stick/Left
-[Info   : Unity Log] control #7: $Left Stick/Right
-[Info   : Unity Log] bindingIndex of S : 2; display bindingIndex: 2
-[Info   : Unity Log] Walk left: rebind controls length: 8
-[Info   : Unity Log] Walk left: rebind control binding index is 3
-[Info   : Unity Log] control #0: $W
-[Info   : Unity Log] control #1: $S
-[Info   : Unity Log] control #2: $A
-[Info   : Unity Log] control #3: $D
-[Info   : Unity Log] control #4: $Left Stick/Up
-[Info   : Unity Log] control #5: $Left Stick/Down
-[Info   : Unity Log] control #6: $Left Stick/Left
-[Info   : Unity Log] control #7: $Left Stick/Right
-[Info   : Unity Log] bindingIndex of A : 3; display bindingIndex: 3
-[Info   : Unity Log] Walk right: rebind controls length: 8
-[Info   : Unity Log] Walk right: rebind control binding index is 4
-[Info   : Unity Log] control #0: $W
-[Info   : Unity Log] control #1: $S
-[Info   : Unity Log] control #2: $A
-[Info   : Unity Log] control #3: $D
-[Info   : Unity Log] control #4: $Left Stick/Up
-[Info   : Unity Log] control #5: $Left Stick/Down
-[Info   : Unity Log] control #6: $Left Stick/Left
-[Info   : Unity Log] control #7: $Left Stick/Right
-[Info   : Unity Log] bindingIndex of D : 4; display bindingIndex: 4
-[Info   : Unity Log] Jump: rebind controls length: 2
-[Info   : Unity Log] Jump: rebind control binding index is -1
-[Info   : Unity Log] control #0: $Space
-[Info   : Unity Log] control #1: $Button South
-[Info   : Unity Log] bindingIndex of Space : -1; display bindingIndex: 0
-[Info   : Unity Log] Sprint: rebind controls length: 2
-[Info   : Unity Log] Sprint: rebind control binding index is -1
-[Info   : Unity Log] control #0: $Shift
-[Info   : Unity Log] control #1: $Left Trigger
-[Info   : Unity Log] bindingIndex of Shift : -1; display bindingIndex: 0
-[Info   : Unity Log] Crouch: rebind controls length: 2
-[Info   : Unity Log] Crouch: rebind control binding index is -1
-[Info   : Unity Log] control #0: $Control
-[Info   : Unity Log] control #1: $Right Stick Press
-[Info   : Unity Log] bindingIndex of Control : -1; display bindingIndex: 0
-[Info   : Unity Log] Interact: rebind controls length: 2
-[Info   : Unity Log] Interact: rebind control binding index is -1
-[Info   : Unity Log] control #0: $E
-[Info   : Unity Log] control #1: $Button West
-[Info   : Unity Log] bindingIndex of E : -1; display bindingIndex: 0
-[Info   : Unity Log] Ping scan: rebind controls length: 2
-[Info   : Unity Log] Ping scan: rebind control binding index is -1
-[Info   : Unity Log] control #0: $Right Button
-[Info   : Unity Log] control #1: $Right Shoulder
-[Info   : Unity Log] bindingIndex of Right Button : -1; display bindingIndex: 0
-[Info   : Unity Log] Item primary use: rebind controls length: 2
-[Info   : Unity Log] Item primary use: rebind control binding index is -1
-[Info   : Unity Log] control #0: $Left Button
-[Info   : Unity Log] control #1: $Right Trigger
-[Info   : Unity Log] bindingIndex of Left Button : -1; display bindingIndex: 0
-[Info   : Unity Log] Item Secondary use: rebind controls length: 2
-[Info   : Unity Log] Item Secondary use: rebind control binding index is -1
-[Info   : Unity Log] control #0: $Q
-[Info   : Unity Log] control #1: $D-Pad/Down
-[Info   : Unity Log] bindingIndex of Q : -1; display bindingIndex: 0
-[Info   : Unity Log] Item Tertiary use: rebind controls length: 2
-[Info   : Unity Log] Item Tertiary use: rebind control binding index is -1
-[Info   : Unity Log] control #0: $E
-[Info   : Unity Log] control #1: $D-Pad/Up
-[Info   : Unity Log] bindingIndex of E : -1; display bindingIndex: 0
-[Info   : Unity Log] Item drop: rebind controls length: 2
-[Info   : Unity Log] Item drop: rebind control binding index is -1
-[Info   : Unity Log] control #0: $G
-[Info   : Unity Log] control #1: $Button East
-[Info   : Unity Log] bindingIndex of G : -1; display bindingIndex: 0
-[Info   : Unity Log] Item switch left: rebind controls length: 4
-[Info   : Unity Log] Item switch left: rebind control binding index is 2
-[Info   : Unity Log] control #0: $Scroll/Up
-[Info   : Unity Log] control #1: $Scroll/Down
-[Info   : Unity Log] control #2: $D-Pad/Left
-[Info   : Unity Log] control #3: $D-Pad/Right
-[Info   : Unity Log] bindingIndex of Scroll/Down : 2; display bindingIndex: 2
-[Info   : Unity Log] Item switch right: rebind controls length: 4
-[Info   : Unity Log] Item switch right: rebind control binding index is 1
-[Info   : Unity Log] control #0: $Scroll/Up
-[Info   : Unity Log] control #1: $Scroll/Down
-[Info   : Unity Log] control #2: $D-Pad/Left
-[Info   : Unity Log] control #3: $D-Pad/Right
-[Info   : Unity Log] bindingIndex of Scroll/Up : 1; display bindingIndex: 1
-[Info   : Unity Log] Item inspect: rebind controls length: 2
-[Info   : Unity Log] Item inspect: rebind control binding index is -1
-[Info   : Unity Log] control #0: $Z
-[Info   : Unity Log] control #1: $Left Shoulder
-[Info   : Unity Log] bindingIndex of Z : -1; display bindingIndex: 0
-[Info   : Unity Log] Replace furniture: rebind controls length: 2
-[Info   : Unity Log] Replace furniture: rebind control binding index is -1
-[Info   : Unity Log] control #0: $B
-[Info   : Unity Log] control #1: $Button North
-[Info   : Unity Log] bindingIndex of B : -1; display bindingIndex: 0
-[Info   : Unity Log] Turn furniture: rebind controls length: 1
-[Info   : Unity Log] Turn furniture: rebind control binding index is -1
-[Info   : Unity Log] control #0: $R
-[Info   : Unity Log] bindingIndex of R : -1; display bindingIndex: 0
-[Info   : Unity Log] Store furniture: rebind controls length: 1
-[Info   : Unity Log] Store furniture: rebind control binding index is -1
-[Info   : Unity Log] control #0: $X
-[Info   : Unity Log] bindingIndex of X : -1; display bindingIndex: 0
-[Info   : Unity Log] Dance: rebind controls length: 1
-[Info   : Unity Log] Dance: rebind control binding index is -1
-[Info   : Unity Log] control #0: $1
-[Info   : Unity Log] bindingIndex of 1 : -1; display bindingIndex: 0
-[Info   : Unity Log] Point: rebind controls length: 1
-[Info   : Unity Log] Point: rebind control binding index is -1
-[Info   : Unity Log] control #0: $2
-[Info   : Unity Log] bindingIndex of 2 : -1; display bindingIndex: 0
-[Info   : Unity Log] Enable chat: rebind controls length: 1
-[Info   : Unity Log] Enable chat: rebind control binding index is -1
-[Info   : Unity Log] control #0: $/
-[Info   : Unity Log] bindingIndex of / : -1; display bindingIndex: 0
-[Info   : Unity Log] Submit chat: rebind controls length: 1
-[Info   : Unity Log] Submit chat: rebind control binding index is -1
-[Info   : Unity Log] control #0: $Enter
-[Info   : Unity Log] bindingIndex of Enter : -1; display bindingIndex: 0
-[Info   : Unity Log] Move forward: rebind controls length: 8
-[Info   : Unity Log] Move forward: rebind control binding index is 6
-[Info   : Unity Log] control #0: $W
-[Info   : Unity Log] control #1: $S
-[Info   : Unity Log] control #2: $A
-[Info   : Unity Log] control #3: $D
-[Info   : Unity Log] control #4: $Left Stick/Up
-[Info   : Unity Log] control #5: $Left Stick/Down
-[Info   : Unity Log] control #6: $Left Stick/Left
-[Info   : Unity Log] control #7: $Left Stick/Right
-[Info   : Unity Log] bindingIndex of Left Stick/Up : 6; display bindingIndex: 6
-[Info   : Unity Log] Move back: rebind controls length: 8
-[Info   : Unity Log] Move back: rebind control binding index is 7
-[Info   : Unity Log] control #0: $W
-[Info   : Unity Log] control #1: $S
-[Info   : Unity Log] control #2: $A
-[Info   : Unity Log] control #3: $D
-[Info   : Unity Log] control #4: $Left Stick/Up
-[Info   : Unity Log] control #5: $Left Stick/Down
-[Info   : Unity Log] control #6: $Left Stick/Left
-[Info   : Unity Log] control #7: $Left Stick/Right
-[Info   : Unity Log] bindingIndex of Left Stick/Down : 7; display bindingIndex: 7
-[Info   : Unity Log] Move left: rebind controls length: 8
-[Info   : Unity Log] Move left: rebind control binding index is 8
-[Info   : Unity Log] control #0: $W
-[Info   : Unity Log] control #1: $S
-[Info   : Unity Log] control #2: $A
-[Info   : Unity Log] control #3: $D
-[Info   : Unity Log] control #4: $Left Stick/Up
-[Info   : Unity Log] control #5: $Left Stick/Down
-[Info   : Unity Log] control #6: $Left Stick/Left
-[Info   : Unity Log] control #7: $Left Stick/Right
-[Info   : Unity Log] bindingIndex of Left Stick/Left : 8; display bindingIndex: 8
-[Info   : Unity Log] Move right: rebind controls length: 8
-[Info   : Unity Log] Move right: rebind control binding index is 9
-[Info   : Unity Log] control #0: $W
-[Info   : Unity Log] control #1: $S
-[Info   : Unity Log] control #2: $A
-[Info   : Unity Log] control #3: $D
-[Info   : Unity Log] control #4: $Left Stick/Up
-[Info   : Unity Log] control #5: $Left Stick/Down
-[Info   : Unity Log] control #6: $Left Stick/Left
-[Info   : Unity Log] control #7: $Left Stick/Right
-[Info   : Unity Log] bindingIndex of Left Stick/Right : 9; display bindingIndex: 9
-[Info   : Unity Log] Jump: rebind controls length: 2
-[Info   : Unity Log] Jump: rebind control binding index is 1
-[Info   : Unity Log] control #0: $Space
-[Info   : Unity Log] control #1: $Button South
-[Info   : Unity Log] bindingIndex of Button South : 1; display bindingIndex: 1
-[Info   : Unity Log] Sprint: rebind controls length: 2
-[Info   : Unity Log] Sprint: rebind control binding index is 1
-[Info   : Unity Log] control #0: $Shift
-[Info   : Unity Log] control #1: $Left Trigger
-[Info   : Unity Log] bindingIndex of Left Trigger : 1; display bindingIndex: 1
-[Info   : Unity Log] Crouch: rebind controls length: 2
-[Info   : Unity Log] Crouch: rebind control binding index is 1
-[Info   : Unity Log] control #0: $Control
-[Info   : Unity Log] control #1: $Right Stick Press
-[Info   : Unity Log] bindingIndex of Right Stick Press : 1; display bindingIndex: 1
-[Info   : Unity Log] Interact: rebind controls length: 2
-[Info   : Unity Log] Interact: rebind control binding index is 1
-[Info   : Unity Log] control #0: $E
-[Info   : Unity Log] control #1: $Button West
-[Info   : Unity Log] bindingIndex of Button West : 1; display bindingIndex: 1
-[Info   : Unity Log] Ping scan: rebind controls length: 2
-[Info   : Unity Log] Ping scan: rebind control binding index is 1
-[Info   : Unity Log] control #0: $Right Button
-[Info   : Unity Log] control #1: $Right Shoulder
-[Info   : Unity Log] bindingIndex of Right Shoulder : 1; display bindingIndex: 1
-[Info   : Unity Log] Item primary use: rebind controls length: 2
-[Info   : Unity Log] Item primary use: rebind control binding index is 1
-[Info   : Unity Log] control #0: $Left Button
-[Info   : Unity Log] control #1: $Right Trigger
-[Info   : Unity Log] bindingIndex of Right Trigger : 1; display bindingIndex: 1
-[Info   : Unity Log] Item secondary use: rebind controls length: 2
-[Info   : Unity Log] Item secondary use: rebind control binding index is 1
-[Info   : Unity Log] control #0: $Q
-[Info   : Unity Log] control #1: $D-Pad/Down
-[Info   : Unity Log] bindingIndex of D-Pad/Down : 1; display bindingIndex: 1
-[Info   : Unity Log] Item tertiary use: rebind controls length: 2
-[Info   : Unity Log] Item tertiary use: rebind control binding index is 1
-[Info   : Unity Log] control #0: $E
-[Info   : Unity Log] control #1: $D-Pad/Up
-[Info   : Unity Log] bindingIndex of D-Pad/Up : 1; display bindingIndex: 1
-[Info   : Unity Log] Item drop: rebind controls length: 2
-[Info   : Unity Log] Item drop: rebind control binding index is 1
-[Info   : Unity Log] control #0: $G
-[Info   : Unity Log] control #1: $Button East
-[Info   : Unity Log] bindingIndex of Button East : 1; display bindingIndex: 1
-[Info   : Unity Log] Item switch left: rebind controls length: 4
-[Info   : Unity Log] Item switch left: rebind control binding index is 5
-[Info   : Unity Log] control #0: $Scroll/Up
-[Info   : Unity Log] control #1: $Scroll/Down
-[Info   : Unity Log] control #2: $D-Pad/Left
-[Info   : Unity Log] control #3: $D-Pad/Right
-[Info   : Unity Log] bindingIndex of D-Pad/Right : 5; display bindingIndex: 5
-[Info   : Unity Log] Item switch right: rebind controls length: 4
-[Info   : Unity Log] Item switch right: rebind control binding index is 4
-[Info   : Unity Log] control #0: $Scroll/Up
-[Info   : Unity Log] control #1: $Scroll/Down
-[Info   : Unity Log] control #2: $D-Pad/Left
-[Info   : Unity Log] control #3: $D-Pad/Right
-[Info   : Unity Log] bindingIndex of D-Pad/Left : 4; display bindingIndex: 4
-[Info   : Unity Log] Dance: rebind controls length: 1
-[Info   : Unity Log] Dance: rebind control binding index is 1
-[Info   : Unity Log] control #0: $1
-[Info   : Unity Log] bindingIndex of  : 1; display bindingIndex: 1
-[Info   : Unity Log] Point: rebind controls length: 1
-[Info   : Unity Log] Point: rebind control binding index is 1
-[Info   : Unity Log] control #0: $2
-[Info   : Unity Log] bindingIndex of  : 1; display bindingIndex: 1
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] Discarding changed settings
-[Info   : Unity Log] Changing gamma
-[Info   : Unity Log] override float value: 0
-[Info   : Unity Log] Overriding float
-[Info   : Unity Log] Gamma changed
-[Info   : Unity Log] Set gamma to new value: 0; (0.00, 0.00, 0.00, 0.00) (True)
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: False
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   : Unity Log] Client connected callback in gamenetworkmanager
+[Info   : Unity Log] player connected
+[Info   : Unity Log] connected players #: 0
+[Info   : Unity Log] Connecting new player on host; clientId: 1
+[Info   : Unity Log] New player assigned object id: Player (1) (UnityEngine.GameObject)
+[Info   : Unity Log] NEW CLIENT JOINED THE SERVER!!; clientId: 1
+[Info   : Unity Log] New player: Player (1)
+[Info   : Unity Log] Connected players (joined clients) amount after connection: 1
+[Info   : Unity Log] This client is not the client who just joined. Our client id: 0; joining client id: 1
+[Info   : Unity Log] client id connecting: 1 ; their corresponding player object id: 1
+[Info   : Unity Log] Syncing already-held objects on server
+[Info   : Unity Log] pocketed objects count: 0
+[Info   : Unity Log] held objects count: 0
+[Info   : Unity Log] Server: objects in ship: 5
+[Info   : Unity Log] Server: placeableObject #0: StorageCloset
+[Info   : Unity Log] Server: position #0: (0.00, 0.00, 0.00)
+[Info   : Unity Log] Server: placeableObject #1: FileCabinet
+[Info   : Unity Log] Server: position #1: (0.00, 0.00, 0.00)
+[Info   : Unity Log] Server: placeableObject #2: LightSwitchContainer
+[Info   : Unity Log] Server: position #2: (0.00, 0.00, 0.00)
+[Info   : Unity Log] Server: placeableObject #3: Bunkbeds
+[Info   : Unity Log] Server: position #3: (0.00, 0.00, 0.00)
+[Info   : Unity Log] Server: placeableObject #4: Terminal
+[Info   : Unity Log] Server: position #4: (0.00, 0.00, 0.00)
+[Info   : Unity Log] INITIAL ARRAY LENGTHS
+[Info   : Unity Log] 16
+[Info   : Unity Log] 16
+[Info   : Unity Log] INITIAL ARRAY LENGTHS
+[Info   : Unity Log] 16
+[Info   : Unity Log] 16
+[Info   : Unity Log] Starting voice tracking for player: Trickstermania
+[Info   : Unity Log] Setting animation on client
+[Info   : Unity Log] Refreshing voice playback objects. Number of voice objects found: 1
+[Info   : Unity Log] Found a match for voice object #0 and player object #1
+[Info   : Unity Log] player voice chat audiosource: Player a500a776-fc1d-4a7a-aba5-fa244fa375e2 voice comms (UnityEngine.AudioSource); set audiomixer to  ;  ; 1
+[Info   : Unity Log] Skipping player #2 as they are not controlled or dead
+[Info   : Unity Log] Skipping player #3 as they are not controlled or dead
+[Info   : Unity Log] Skipping player #4 as they are not controlled or dead
+[Info   : Unity Log] Skipping player #5 as they are not controlled or dead
+[Info   : Unity Log] Skipping player #6 as they are not controlled or dead
+[Info   : Unity Log] Skipping player #7 as they are not controlled or dead
+[Info   : Unity Log] Skipping player #8 as they are not controlled or dead
+[Info   : Unity Log] Skipping player #9 as they are not controlled or dead
+[Info   : Unity Log] Skipping player #10 as they are not controlled or dead
+[Info   : Unity Log] Skipping player #11 as they are not controlled or dead
+[Info   : Unity Log] Skipping player #12 as they are not controlled or dead
+[Info   : Unity Log] Skipping player #13 as they are not controlled or dead
+[Info   : Unity Log] Skipping player #14 as they are not controlled or dead
+[Info   : Unity Log] Skipping player #15 as they are not controlled or dead
+[Warning: Unity Log] [Netcode] Deferred messages were received for a trigger of type OnSpawn with key 0, but that trigger was not received within within 1 second(s).
+[Info   : Unity Log] Setting animation on client
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (1)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_0_133469748297177554.wav
+[Warning:    LC_API] Asking all other players for their mod list..
+[Warning:    LC_API] Trickstermania responded with these mods:
+BiggerLobby
+com.github.tinyhoot.ShipLoot
+EmployeeAssignments
+LC_API
+RugbugRedfern.SkinwalkerMod
+twig.latecompany
+x753.More_Suits
+verity.TooManySuits
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (7)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_2_133469748330015569.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_6_133469748395678774.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_1_133469748325167780.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_3_133469748343015007.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_4_133469748355025713.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_5_133469748371018396.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (7)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_9_133469748461515788.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_12_133469748475345460.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_11_133469748469175255.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_10_133469748465847243.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_7_133469748401016734.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_8_133469748445345345.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (5)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_16_133469748538508314.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_13_133469748482174887.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_14_133469748487508280.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_15_133469748518171868.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (6)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_21_133469748636338764.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_18_133469748587672178.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_19_133469748596667800.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_20_133469748613167072.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_17_133469748542338856.wav
 [Info   : Unity Log] PLAYER OPENED MENU
 [Info   : Unity Log] In terminal menu: False
 [Info   : Unity Log] PLAYER OPENED MENU
@@ -742,17 +517,563 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Info   : Unity Log] In terminal menu: False
 [Info   : Unity Log] PLAYER OPENED MENU
 [Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (8)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_24_133469748670837243.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_26_133469748691164871.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_23_133469748662840931.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_27_133469748698334880.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_28_133469748703158785.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_25_133469748679498848.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_22_133469748643166737.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (7)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_32_133469748745972379.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_34_133469748767495286.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_35_133469748785824200.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_31_133469748737977066.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_29_133469748714334692.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_33_133469748750329122.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_30_133469748729495364.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (3)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_36_133469748861487650.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_38_133469748881663616.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_37_133469748864484785.wav
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (9)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_44_133469748927154600.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_40_133469748896155086.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_42_133469748905976147.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_39_133469748892655630.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_46_133469748949657208.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_47_133469748952824902.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_45_133469748936968053.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_41_133469748898971436.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_43_133469748908821608.wav
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (4)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_48_133469748973155160.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_50_133469749000820468.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_51_133469749025151450.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_49_133469748977327617.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (7)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_54_133469749078323991.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_57_133469749105144134.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_58_133469749115147502.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_55_133469749085815362.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_56_133469749088814962.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_52_133469749046818202.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_53_133469749057648338.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (6)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_59_133469749124992496.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_62_133469749176974724.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_60_133469749127792977.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_63_133469749179787114.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_61_133469749135316354.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (9)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_69_133469749268138409.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_70_133469749272786445.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_67_133469749250643521.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_68_133469749263303696.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_71_133469749277975216.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_72_133469749280636946.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_66_133469749241974127.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_64_133469749198481963.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_65_133469749225134053.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (6)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_75_133469749310473981.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_73_133469749290783975.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_74_133469749296781691.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_77_133469749331467089.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_76_133469749318463676.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_78_133469749337968400.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (3)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_80_133469749428634210.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_79_133469749366974208.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (3)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_82_133469749478462275.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_81_133469749433778743.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (4)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_83_133469749522462998.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_85_133469749573118828.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_86_133469749579633718.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_84_133469749530627836.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (4)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_88_133469749633287065.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_89_133469749656954551.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_87_133469749610456867.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (4)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_92_133469749755778354.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_90_133469749684454661.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_91_133469749716767704.wav
+[Info   : Unity Log] Triggering animated object trigger bool: setting to False
+[Info   : Unity Log] bool val: False
+[Info   : Unity Log] Received set ship lights RPC. Lights on?: False
+[Info   : Unity Log] Toggling ship lights RPC. lights now: False
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (7)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_93_133469749765784796.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_94_133469749768593539.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_98_133469749807445482.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_96_133469749783778282.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_97_133469749793277653.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_95_133469749773453437.wav
+[Info   : Unity Log] Triggering animated object trigger bool: setting to True
+[Info   : Unity Log] bool val: True
+[Info   : Unity Log] Received set ship lights RPC. Lights on?: True
+[Info   : Unity Log] Toggling ship lights RPC. lights now: True
+[Info   : Unity Log] Triggering animated object trigger bool: setting to False
+[Info   : Unity Log] bool val: False
+[Info   : Unity Log] Received set ship lights RPC. Lights on?: False
+[Info   : Unity Log] Toggling ship lights RPC. lights now: False
+[Info   : Unity Log] Triggering animated object trigger bool: setting to True
+[Info   : Unity Log] bool val: True
+[Info   : Unity Log] Received set ship lights RPC. Lights on?: True
+[Info   : Unity Log] Toggling ship lights RPC. lights now: True
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (4)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_101_133469749893774266.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_100_133469749867943044.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_99_133469749820110799.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_102_133469749896595371.wav
+[Info   : Unity Log] Triggering animated object trigger bool: setting to False
+[Info   : Unity Log] bool val: False
+[Info   : Unity Log] Received set ship lights RPC. Lights on?: False
+[Info   : Unity Log] Toggling ship lights RPC. lights now: False
+[Info   : Unity Log] Triggering animated object trigger bool: setting to True
+[Info   : Unity Log] bool val: True
+[Info   : Unity Log] Received set ship lights RPC. Lights on?: True
+[Info   : Unity Log] Toggling ship lights RPC. lights now: True
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (4)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_104_133469749967106247.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_105_133469749973102562.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_103_133469749941942571.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (8)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_110_133469750047263050.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_112_133469750075108400.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_109_133469750037443498.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_107_133469750015433871.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_111_133469750066104209.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_106_133469750001271464.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_108_133469750026773231.wav
+[Info   : Unity Log] bool val: False
+[Info   : Unity Log] Received set ship lights RPC. Lights on?: False
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (3)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_115_133469750161764361.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_113_133469750080584738.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_114_133469750116099834.wav
+[Info   : Unity Log] bool val: True
+[Info   : Unity Log] Received set ship lights RPC. Lights on?: True
+[Info   : Unity Log] bool val: False
+[Info   : Unity Log] Received set ship lights RPC. Lights on?: False
+[Info   : Unity Log] bool val: True
+[Info   : Unity Log] Received set ship lights RPC. Lights on?: True
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (5)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_119_133469750228932966.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_116_133469750175431514.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_120_133469750235427136.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_117_133469750181932080.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_118_133469750200761592.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (3)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_122_133469750279423174.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_121_133469750249931357.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (5)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_125_133469750360251346.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_123_133469750291419799.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_124_133469750350253546.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_126_133469750374753384.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_127_133469750378751203.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (6)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_132_133469750455082350.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_128_133469750410415188.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_130_133469750431417628.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_129_133469750423247728.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_131_133469750448566448.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (7)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_138_133469750561240556.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_135_133469750538238760.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_136_133469750544249082.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_137_133469750550906643.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_134_133469750505912252.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_133_133469750465748758.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (8)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_145_133469750612073284.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_139_133469750565076826.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_140_133469750579575010.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_141_133469750585069586.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_142_133469750587734521.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_144_133469750605572408.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_143_133469750590568720.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (3)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_146_133469750638383748.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_147_133469750652072220.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (3)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_149_133469750796732377.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_148_133469750715737132.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (6)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_153_133469750871223406.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_151_133469750834235966.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_152_133469750845230131.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_154_133469750878734826.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_150_133469750805065606.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (5)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_157_133469750912062193.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_156_133469750899397563.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_155_133469750884229746.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_158_133469750920891357.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (6)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_160_133469751015057921.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_162_133469751027886305.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_163_133469751036216072.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_161_133469751018716379.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_159_133469750936898650.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (7)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_169_133469751091047373.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_165_133469751050364796.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_167_133469751070547379.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_164_133469751046371804.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_166_133469751058051769.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_168_133469751073887749.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (5)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_173_133469751177719352.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_172_133469751166372258.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_171_133469751150551430.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_170_133469751101047331.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (3)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_175_133469751235188432.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_174_133469751199880283.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (5)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_178_133469751336867519.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_177_133469751325033317.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_179_133469751345700118.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_176_133469751249042272.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (3)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_180_133469751367183139.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_181_133469751377028483.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (5)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_183_133469751467363764.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_184_133469751478528784.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_182_133469751435368780.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_185_133469751484866608.wav
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (5)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_187_133469751556694617.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_188_133469751568694119.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_186_133469751515690848.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_189_133469751571361805.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (4)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_190_133469751608359054.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_191_133469751632521753.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_192_133469751647190477.wav
+[Info   : Unity Log] Setting animation on client
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (7)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_194_133469751704358287.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_195_133469751715020661.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_197_133469751728855352.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_198_133469751744681627.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_193_133469751682539863.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_199_133469751763168045.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_196_133469751724015221.wav
+[Info   : Unity Log] Setting animation on client
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (2)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_200_133469751780013419.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_201_133469751800681797.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (3)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_204_133469751893008944.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_202_133469751855528642.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_203_133469751866347796.wav
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (4)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_205_133469751937176406.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_207_133469751974678690.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_206_133469751940677853.wav
+[Info   : Unity Log] [Netcode] Disconnect Event From 1
+[Info   : Unity Log] Disconnect callback called
+[Info   : Unity Log] Is server: True; ishost: True; isConnectedClient: True
+[Info   : Unity Log] Disconnect callback called in gamenetworkmanager; disconnecting clientId: 1
+[Info   : Unity Log] Client disconnected from server
+[Info   : Unity Log] Calling OnPlayerDC!
+[Info   : Unity Log] Player DC'ing 2
+[Info   : Unity Log] Player DC'ing 3
+[Info   : Unity Log] Teleporting disconnected player out
+[Info   : Unity Log] Current players after dc: 0
+[Info   : Unity Log] Calling OnPlayerDC!
+[Info   : Unity Log] disconnect: clientId key already removed!
+[Info   : Unity Log] Disconnect callback from networkmanager in gamenetworkmanager
+[Info   : Unity Log] [FacepunchTransport] - Disconnected Steam user 0
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (4)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_210_133469752028831489.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_209_133469752024841367.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_208_133469752008528988.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (1)
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (1)
 [Info   : Unity Log] Leaving current lobby
 [Info   : Unity Log] Disconnecting and setting networkobjects to destroy with owner
 [Info   : Unity Log] Got no ship grabbable items to save.
 [Info   : Unity Log] Shutting down and disconnecting from server. Is host?: True
 [Info   : Unity Log] [Netcode] Shutdown
-[Warning: Unity Log] [Dissonance:Recording] (20:55:54.965) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (21:07:05.425) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (21:07:05.425) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
 [Info   : Unity Log] [Netcode] ShutdownInternal
 [Info   : Unity Log] [FacepunchTransport] - Shutting down.
 [Info   : Unity Log] [Netcode] NetworkConnectionManager.Shutdown() -> IsListening && NetworkTransport != null -> NetworkTransport.Shutdown()
 [Info   : Unity Log] Resetting unlockables list!
 [Info   : Unity Log] Scene manager is null
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
 [Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
 [Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
 [Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
@@ -862,22 +1183,10 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
 [Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
 [Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
 [Info   : Unity Log] DISABLING connection callbacks in round manager
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
 [Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
 [Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
 [Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
@@ -933,78 +1242,6 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
 [Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
 [Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
 [Info   : Unity Log] Set version num
 [Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
 [Info   : Unity Log] Changing gamma
@@ -1012,3 +1249,23 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Info   : Unity Log] Overriding float
 [Info   : Unity Log] Gamma changed
 [Info   : Unity Log] Set gamma to new value: 0; (0.00, 0.00, 0.00, 0.00) (True)
+[Error  : Unity Log] IOException: The process cannot access the file 'Output_a500a776-fc1d-4a7a-aba5-fa244fa375e2_211_133469752035669794.wav' because it is being used by another process.
+Stack trace:
+System.IO.FileSystem.RemoveDirectoryRecursive (System.String fullPath, Interop+Kernel32+WIN32_FIND_DATA& findData, System.Boolean topLevel) (at <787acc3c9a4c471ba7d971300105af24>:0)
+System.IO.FileSystem.RemoveDirectory (System.String fullPath, System.Boolean recursive) (at <787acc3c9a4c471ba7d971300105af24>:0)
+System.IO.Directory.Delete (System.String path, System.Boolean recursive) (at <787acc3c9a4c471ba7d971300105af24>:0)
+SkinwalkerMod.SkinwalkerModPersistent.DisableRecording () (at <ec6e44a415004d279212d0defab40cc1>:0)
+SkinwalkerMod.SkinwalkerModPersistent.OnApplicationQuit () (at <ec6e44a415004d279212d0defab40cc1>:0)
+
+[Info   : Unity Log] [Netcode] ShutdownInternal
+[Info   : Unity Log] Leaving current lobby
+[Info   : Unity Log] Disconnecting and setting networkobjects to destroy with owner
+[Info   : Unity Log] Server is not active; quitting to main menu
+[Info   : Unity Log] Set version num
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   : Unity Log] Changing gamma
+[Info   : Unity Log] override float value: 0
+[Info   : Unity Log] Overriding float
+[Info   : Unity Log] Gamma changed
+[Info   : Unity Log] Set gamma to new value: 0; (0.00, 0.00, 0.00, 0.00) (True)
+[Info   : Unity Log] unsubscribing from steam callbacks
