@@ -12,7 +12,6 @@
 [Message:   BepInEx] Chainloader started
 [Info   :   BepInEx] 13 plugins to load
 [Warning:   BepInEx] Plugin [ItemQuickSwitchMod 1.1.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
-[Warning:   BepInEx] Plugin [LethalExpansion 1.1.9] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
 [Warning:   BepInEx] Plugin [Too Many Suits 1.0.3] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
 [Info   :   BepInEx] Loading [BiggerLobby 2.5.0]
 [Info   : Unity Log] newarr
@@ -87,16 +86,6 @@
         \/       \//_____/        \/                 
                                                      
 [Info   :    LC_API] LC_API Starting up..
-[Info   :   BepInEx] Loading [LethalExpansion 1.1.9]
-[Info   :LethalExpansion] PluginName: LethalExpansion, VersionString: 1.1.9 is loading...
-[Info   :LethalExpansion] AssetBundle loaded: oldseaport.lem
-[Info   :LethalExpansion] ModManifest found: OldSeaPort
-[Info   :LethalExpansion] AssetBundle loaded: orion.lem
-[Warning: Unity Log] Couldn't create a Convex Mesh from source mesh "003" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-[Warning: Unity Log] Couldn't create a Convex Mesh from source mesh "1" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-[Info   :LethalExpansion] ModManifest found: Orion
-[Info   :LethalExpansion] Water support applied to the HDRenderPipelineAsset.
-[Info   :LethalExpansion] PluginName: LethalExpansion, VersionString: 1.1.9 is loaded.
 [Info   :   BepInEx] Loading [Flashlight 1.4.0]
 [Info   :Flashlight] ------Flashlight done.------
 [Info   :   BepInEx] Loading [Skinwalker Mod 1.0.8]
@@ -119,6 +108,8 @@
 [Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Thumper VALUE LOADED FROM CONFIG: [True]
 [Info   :RugbugRedfern.SkinwalkerMod] VoiceLineFrequency VALUE LOADED FROM CONFIG: [1]
 [Info   :RugbugRedfern.SkinwalkerMod] Skinwalker Mod Object Initialized
+[Info   :   BepInEx] Loading [Dance Off 1.0.7]
+[Info   :TDP.DanceOff] Dance Off loaded.
 [Info   :   BepInEx] Loading [Late Company 1.0.5]
 [Info   :Late Company] Late Company loaded!
 [Info   :   BepInEx] Loading [More Suits 1.3.3]
@@ -130,45 +121,16 @@
 [Info   :EmployeeAssignments] Plugin EmployeeAssignments is loaded!
 [Message:    LC_API] BundleAPI will now load all asset bundles...
 [Message:    LC_API] BundleAPI got no assets to load from legacy directory
-[Message:    LC_API] BundleAPI got 5 AssetBundles to load!
-[Message:    LC_API] Got asset for load: assets/_convertedclips/ondeck/chicken_dance.anim
-[Message:    LC_API] Loaded asset: chicken_dance
-[Message:    LC_API] Got asset for load: assets/_convertedclips/ondeck/excited.anim
-[Message:    LC_API] Loaded asset: excited
-[Message:    LC_API] Got asset for load: assets/_convertedclips/ondeck/gangnam.anim
-[Message:    LC_API] Loaded asset: gangnam
-[Message:    LC_API] Got asset for load: assets/_convertedclips/ondeck/headspin_loop.anim
-[Message:    LC_API] Loaded asset: headspin_loop
-[Message:    LC_API] Got asset for load: assets/_convertedclips/ondeck/headspin_start.anim
-[Message:    LC_API] Loaded asset: headspin_start
-[Message:    LC_API] Got asset for load: assets/_convertedclips/ondeck/jumping_jacks.anim
-[Message:    LC_API] Loaded asset: jumping_jacks
-[Message:    LC_API] Got asset for load: assets/_convertedclips/ondeck/moonwalk.anim
-[Message:    LC_API] Loaded asset: moonwalk
-[Message:    LC_API] Got asset for load: assets/_convertedclips/ondeck/shake_fist.anim
-[Message:    LC_API] Loaded asset: shake_fist
-[Message:    LC_API] Got asset for load: assets/_convertedclips/ondeck/shuffling.anim
-[Message:    LC_API] Loaded asset: shuffling
-[Message:    LC_API] Got asset for load: assets/_convertedclips/ondeck/twerk.anim
-[Message:    LC_API] Loaded asset: twerk
-[Message:    LC_API] Got asset for load: assets/_convertedclips/ondeck/wave.anim
-[Message:    LC_API] Loaded asset: wave
-[Message:    LC_API] Got asset for load: assets/_convertedclips/ondeck/wave_dance.anim
-[Message:    LC_API] Loaded asset: wave_dance
-[Message:    LC_API] Got asset for load: assets/_convertedclips/ondeck/windmill_loop.anim
-[Message:    LC_API] Loaded asset: windmill_loop
-[Message:    LC_API] Got asset for load: assets/_convertedclips/ondeck/windmill_start.anim
-[Message:    LC_API] Loaded asset: windmill_start
-[Message:    LC_API] Got asset for load: assets/_convertedclips/ondeck/ymca.anim
-[Message:    LC_API] Loaded asset: ymca
-[Error  : Unity Log] The AssetBundle 'C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\lethalexpansion.lem' can't be loaded because another AssetBundle with the same files is already loaded.
-[Error  :    LC_API] Failed to load an assetbundle! Path: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\lethalexpansion.lem
+[Message:    LC_API] BundleAPI got 4 AssetBundles to load!
+[Error  : Unity Log] Unable to read header from archive file: C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/BepInEx/plugins/customanim.unitypackage
+[Error  : Unity Log] Failed to read data for the AssetBundle 'C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\customanim.unitypackage'.
+[Error  :    LC_API] Failed to load an assetbundle! Path: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\customanim.unitypackage
 [Error  : Unity Log] The AssetBundle 'C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\suitselect' can't be loaded because another AssetBundle with the same files is already loaded.
 [Error  :    LC_API] Failed to load an assetbundle! Path: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\suitselect
-[Error  : Unity Log] The AssetBundle 'C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\Modules\oldseaport.lem' can't be loaded because another AssetBundle with the same files is already loaded.
-[Error  :    LC_API] Failed to load an assetbundle! Path: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\Modules\oldseaport.lem
-[Error  : Unity Log] The AssetBundle 'C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\Modules\orion.lem' can't be loaded because another AssetBundle with the same files is already loaded.
-[Error  :    LC_API] Failed to load an assetbundle! Path: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\Modules\orion.lem
+[Error  : Unity Log] The AssetBundle 'C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\Animations\animationsbundle' can't be loaded because another AssetBundle with the same files is already loaded.
+[Error  :    LC_API] Failed to load an assetbundle! Path: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\Animations\animationsbundle
+[Error  : Unity Log] The AssetBundle 'C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\Animations\animatorbundle' can't be loaded because another AssetBundle with the same files is already loaded.
+[Error  :    LC_API] Failed to load an assetbundle! Path: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\Animations\animatorbundle
 [Message:    LC_API] BundleAPI finished loading all assets.
 [Message:    LC_API] BundleAPI finished loading all assets.
 [Info   :    LC_API] LC_API Started!
@@ -177,16 +139,13 @@
 [Info   : Unity Log] Overriding float
 [Info   : Unity Log] Gamma changed
 [Info   : Unity Log] Set gamma to new value: 0; (0.00, 0.00, 0.00, 0.00) (True)
-[Info   :LethalExpansion] Loading scene: InitSceneLaunchOptions
 [Info   : Unity Log] Saving changed settings
 [Info   : Unity Log] Changing gamma
 [Info   : Unity Log] override float value: 0
 [Info   : Unity Log] Overriding float
 [Info   : Unity Log] Gamma changed
 [Info   : Unity Log] Set gamma to new value: 0; (0.00, 0.00, 0.00, 0.00) (True)
-[Info   :LethalExpansion] Unloading scene: InitSceneLaunchOptions
 [Info   : Unity Log] subcribing to steam callbacks
-[Info   :LethalExpansion] Loading scene: InitScene
 [Info   : Unity Log] Changing gamma
 [Info   : Unity Log] override float value: 0
 [Info   : Unity Log] Overriding float
@@ -194,25 +153,14 @@
 [Info   : Unity Log] Set gamma to new value: 0; (0.00, 0.00, 0.00, 0.00) (True)
 [Info   : Unity Log] [FacepunchTransport] - Initialized access to Steam Relay Network.
 [Info   : Unity Log] [FacepunchTransport] - Fetched user Steam ID.
-[Info   :LethalExpansion] Unloading scene: InitScene
 [Info   : Unity Log] Set version num
 [Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
-[Info   :LethalExpansion] Loading scene: MainMenu
 [Info   : Unity Log] Changing gamma
 [Info   : Unity Log] override float value: 0
 [Info   : Unity Log] Overriding float
 [Info   : Unity Log] Gamma changed
 [Info   : Unity Log] Set gamma to new value: 0; (0.00, 0.00, 0.00, 0.00) (True)
-[Info   : Unity Log] host button pressed
-[Info   : Unity Log] AAAAAA
-[Info   : Unity Log] 2
-[Info   : Unity Log] 0
-[Info   : Unity Log] AAAAAA
-[Info   : Unity Log] 2
-[Info   : Unity Log] 1
-[Info   : Unity Log] AAAAAA
-[Info   : Unity Log] 2
-[Info   : Unity Log] 2
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
 [Info   : Unity Log] host button pressed
 [Info   : Unity Log] 1
 [Info   : Unity Log] 4
@@ -229,22 +177,10 @@
 [Warning: Unity Log] [Netcode] You cannot decline the host connection. The connection was automatically approved.
 [Info   : Unity Log] started host!
 [Info   : Unity Log] are we in a server?: True
-[Info   :LethalExpansion] LethalExpansion Host Started.
 [Message:    LC_API] server pre-setup success
 [Info   : Unity Log] Lobby has been created
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :LethalExpansion] Unloading scene: MainMenu
 [Info   : Unity Log] Enabling connection callbacks in StartOfRound
 [Info   : Unity Log] Began listening to SceneManager_OnLoadComplete1 on this client
-[Info   :LethalExpansion] Loading scene: SampleSceneRelay
-[Warning:LethalExpansion] True
-[Warning:LethalExpansion] False
-[Debug  :LethalExpansion] Hotfix: Removing duplicated routes
-[Debug  :LethalExpansion] Hotfix: 1 duplicated route(s) removed
-[Info   :LethalExpansion] Terminal reset.
-[Warning:LethalExpansion] Orion can't be added, missing bundles.
-[Info   :LethalExpansion] Moon route price updated.
-[Info   :LethalExpansion] Terminal Main Patch.
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
@@ -372,30 +308,6 @@
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
 [Info   : Unity Log] Key 'shipGrabbableItems' does not exist
-[Info   : Unity Log] Started spectating
-[Info   : Unity Log] Started spectating
-[Info   : Unity Log] Started spectating
-[Info   : Unity Log] Started spectating
-[Info   : Unity Log] Started spectating
-[Info   : Unity Log] Started spectating
-[Info   : Unity Log] Started spectating
-[Info   : Unity Log] Started spectating
-[Info   : Unity Log] Started spectating
-[Info   : Unity Log] Started spectating
-[Info   : Unity Log] Started spectating
-[Info   : Unity Log] Started spectating
-[Info   : Unity Log] Started spectating
-[Info   : Unity Log] Started spectating
-[Info   : Unity Log] Started spectating
-[Info   : Unity Log] Started spectating
-[Warning: Unity Log] [Netcode] Setting ownership twice? Client-ID 0 already owns NetworkObject ID 67!
-[Info   : Unity Log] soumdmanager: True; False
-[Info   : Unity Log] Taking control of player Player and enabling camera!
-[Info   : Unity Log] Starting voice tracking for player: shaq
-[Info   : Unity Log] !!!! ENABLING CAMERA FOR PLAYER: Player
-[Info   : Unity Log] !!!! connectedPlayersAmount: 0
-[Info   : Unity Log] Has beta?: {hasBeta}
-[Info   : Unity Log] Has beta save data: True
 [Warning: Unity Log] BoxColliders does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
 If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/LightSwitchContainer/PlacementCollider"
@@ -419,6 +331,9 @@ The effective box size has been forced positive and is likely to give unexpected
 If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (7)"
 [Warning: Unity Log] BoxColliders does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/StorageCloset/Cube.000/Cube"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
 If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (6)"
 [Warning: Unity Log] BoxColliders does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
@@ -429,22 +344,99 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Warning: Unity Log] BoxColliders does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
 If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (4)"
-[Warning: Unity Log] [Dissonance:Recording] (21:39:47.582) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:4.316458)
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/StorageCloset/Cube.000/Cube"
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Warning: Unity Log] [Netcode] Setting ownership twice? Client-ID 0 already owns NetworkObject ID 67!
+[Info   : Unity Log] soumdmanager: True; False
+[Info   : Unity Log] Taking control of player Player and enabling camera!
+[Info   : Unity Log] Starting voice tracking for player: shaq
+[Info   : Unity Log] !!!! ENABLING CAMERA FOR PLAYER: Player
+[Info   : Unity Log] !!!! connectedPlayersAmount: 0
+[Info   : Unity Log] Has beta?: {hasBeta}
+[Info   : Unity Log] Has beta save data: True
+[Warning: Unity Log] [Dissonance:Recording] (21:46:29.907) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:4.34973)
 [Warning:    LC_API] Asking all other players for their mod list..
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
 [Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   : Unity Log] Set interminalmenu to true: True
-[Error  : Unity Log] Trying to add Caret (TMPro.TMP_SelectionCaret) for graphic rebuild while we are already inside a graphic rebuild loop. This is not supported.
-[Info   : Unity Log] isDemo:False ; False
-[Info   : Unity Log] isDemo:False ; False
-[Info   : Unity Log] isDemo:False ; False
-[Info   : Unity Log] isDemo:False ; False
-[Info   : Unity Log] isDemo:False ; False
-[Info   : Unity Log] isDemo:False ; False
-[Info   : Unity Log] isDemo:False ; True
-[Info   : Unity Log] isDemo:False ; True
+[Info   : Unity Log] performing emote 5
+[Info   : Unity Log] performing emote 5
+[Info   : Unity Log] performing emote 5
+[Info   : Unity Log] performing emote 5
+[Info   : Unity Log] performing emote 5
+[Info   : Unity Log] performing emote 5
+[Info   : Unity Log] performing emote 5
+[Info   : Unity Log] performing emote 5
+[Info   : Unity Log] performing emote 5
+[Info   : Unity Log] performing emote 5
+[Info   : Unity Log] performing emote 5
+[Info   : Unity Log] performing emote 5
+[Info   : Unity Log] performing emote 5
+[Info   : Unity Log] performing emote 5
+[Info   : Unity Log] performing emote 5
+[Info   : Unity Log] performing emote 5
+[Info   : Unity Log] performing emote 6
+[Info   : Unity Log] performing emote 6
+[Info   : Unity Log] performing emote 6
+[Info   : Unity Log] performing emote 6
+[Info   : Unity Log] performing emote 6
+[Info   : Unity Log] performing emote 6
+[Info   : Unity Log] performing emote 6
+[Info   : Unity Log] performing emote 6
+[Info   : Unity Log] performing emote 6
+[Info   : Unity Log] performing emote 6
+[Info   : Unity Log] performing emote 6
+[Info   : Unity Log] performing emote 6
+[Info   : Unity Log] performing emote 6
+[Info   : Unity Log] performing emote 6
+[Info   : Unity Log] performing emote 6
+[Info   : Unity Log] performing emote 6
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
 [Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
 [Info   : Unity Log] PLAYER OPENED MENU
 [Info   : Unity Log] In terminal menu: False
@@ -453,7 +445,29 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Info   : Unity Log] PLAYER OPENED MENU
 [Info   : Unity Log] In terminal menu: False
 [Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: True
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
 [Info   : Unity Log] PLAYER OPENED MENU
 [Info   : Unity Log] In terminal menu: False
 [Info   : Unity Log] PLAYER OPENED MENU
@@ -478,9 +492,6 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Info   : Unity Log] In terminal menu: False
 [Info   : Unity Log] PLAYER OPENED MENU
 [Info   : Unity Log] In terminal menu: False
-[Info   : Unity Log] Calling stop animation function StopUsing server rpc for player: 0
-[Info   : Unity Log] STOPPING SPECIAL ANIMATION ON LOCAL CLIENT; player who was using: shaq
-[Info   : Unity Log] Quit terminal; inTerminalMenu true?: {playerScript.inTerminalMenu}
 [Info   : Unity Log] PLAYER OPENED MENU
 [Info   : Unity Log] In terminal menu: False
 [Info   : Unity Log] PLAYER OPENED MENU
@@ -489,6 +500,436 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Info   : Unity Log] In terminal menu: False
 [Info   : Unity Log] PLAYER OPENED MENU
 [Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] Push to talk: rebind controls length: 1
+[Info   : Unity Log] Push to talk: rebind control binding index is -1
+[Info   : Unity Log] control #0: $T
+[Info   : Unity Log] bindingIndex of T : -1; display bindingIndex: 0
+[Info   : Unity Log] Walk forward: rebind controls length: 8
+[Info   : Unity Log] Walk forward: rebind control binding index is 1
+[Info   : Unity Log] control #0: $W
+[Info   : Unity Log] control #1: $S
+[Info   : Unity Log] control #2: $A
+[Info   : Unity Log] control #3: $D
+[Info   : Unity Log] control #4: $Left Stick/Up
+[Info   : Unity Log] control #5: $Left Stick/Down
+[Info   : Unity Log] control #6: $Left Stick/Left
+[Info   : Unity Log] control #7: $Left Stick/Right
+[Info   : Unity Log] bindingIndex of W : 1; display bindingIndex: 1
+[Info   : Unity Log] Walk back: rebind controls length: 8
+[Info   : Unity Log] Walk back: rebind control binding index is 2
+[Info   : Unity Log] control #0: $W
+[Info   : Unity Log] control #1: $S
+[Info   : Unity Log] control #2: $A
+[Info   : Unity Log] control #3: $D
+[Info   : Unity Log] control #4: $Left Stick/Up
+[Info   : Unity Log] control #5: $Left Stick/Down
+[Info   : Unity Log] control #6: $Left Stick/Left
+[Info   : Unity Log] control #7: $Left Stick/Right
+[Info   : Unity Log] bindingIndex of S : 2; display bindingIndex: 2
+[Info   : Unity Log] Walk left: rebind controls length: 8
+[Info   : Unity Log] Walk left: rebind control binding index is 3
+[Info   : Unity Log] control #0: $W
+[Info   : Unity Log] control #1: $S
+[Info   : Unity Log] control #2: $A
+[Info   : Unity Log] control #3: $D
+[Info   : Unity Log] control #4: $Left Stick/Up
+[Info   : Unity Log] control #5: $Left Stick/Down
+[Info   : Unity Log] control #6: $Left Stick/Left
+[Info   : Unity Log] control #7: $Left Stick/Right
+[Info   : Unity Log] bindingIndex of A : 3; display bindingIndex: 3
+[Info   : Unity Log] Walk right: rebind controls length: 8
+[Info   : Unity Log] Walk right: rebind control binding index is 4
+[Info   : Unity Log] control #0: $W
+[Info   : Unity Log] control #1: $S
+[Info   : Unity Log] control #2: $A
+[Info   : Unity Log] control #3: $D
+[Info   : Unity Log] control #4: $Left Stick/Up
+[Info   : Unity Log] control #5: $Left Stick/Down
+[Info   : Unity Log] control #6: $Left Stick/Left
+[Info   : Unity Log] control #7: $Left Stick/Right
+[Info   : Unity Log] bindingIndex of D : 4; display bindingIndex: 4
+[Info   : Unity Log] Jump: rebind controls length: 2
+[Info   : Unity Log] Jump: rebind control binding index is -1
+[Info   : Unity Log] control #0: $Space
+[Info   : Unity Log] control #1: $Button South
+[Info   : Unity Log] bindingIndex of Space : -1; display bindingIndex: 0
+[Info   : Unity Log] Sprint: rebind controls length: 2
+[Info   : Unity Log] Sprint: rebind control binding index is -1
+[Info   : Unity Log] control #0: $Shift
+[Info   : Unity Log] control #1: $Left Trigger
+[Info   : Unity Log] bindingIndex of Shift : -1; display bindingIndex: 0
+[Info   : Unity Log] Crouch: rebind controls length: 2
+[Info   : Unity Log] Crouch: rebind control binding index is -1
+[Info   : Unity Log] control #0: $Control
+[Info   : Unity Log] control #1: $Right Stick Press
+[Info   : Unity Log] bindingIndex of Control : -1; display bindingIndex: 0
+[Info   : Unity Log] Interact: rebind controls length: 2
+[Info   : Unity Log] Interact: rebind control binding index is -1
+[Info   : Unity Log] control #0: $E
+[Info   : Unity Log] control #1: $Button West
+[Info   : Unity Log] bindingIndex of E : -1; display bindingIndex: 0
+[Info   : Unity Log] Ping scan: rebind controls length: 2
+[Info   : Unity Log] Ping scan: rebind control binding index is -1
+[Info   : Unity Log] control #0: $Right Button
+[Info   : Unity Log] control #1: $Right Shoulder
+[Info   : Unity Log] bindingIndex of Right Button : -1; display bindingIndex: 0
+[Info   : Unity Log] Item primary use: rebind controls length: 2
+[Info   : Unity Log] Item primary use: rebind control binding index is -1
+[Info   : Unity Log] control #0: $Left Button
+[Info   : Unity Log] control #1: $Right Trigger
+[Info   : Unity Log] bindingIndex of Left Button : -1; display bindingIndex: 0
+[Info   : Unity Log] Item Secondary use: rebind controls length: 2
+[Info   : Unity Log] Item Secondary use: rebind control binding index is -1
+[Info   : Unity Log] control #0: $Q
+[Info   : Unity Log] control #1: $D-Pad/Down
+[Info   : Unity Log] bindingIndex of Q : -1; display bindingIndex: 0
+[Info   : Unity Log] Item Tertiary use: rebind controls length: 2
+[Info   : Unity Log] Item Tertiary use: rebind control binding index is -1
+[Info   : Unity Log] control #0: $E
+[Info   : Unity Log] control #1: $D-Pad/Up
+[Info   : Unity Log] bindingIndex of E : -1; display bindingIndex: 0
+[Info   : Unity Log] Item drop: rebind controls length: 2
+[Info   : Unity Log] Item drop: rebind control binding index is -1
+[Info   : Unity Log] control #0: $G
+[Info   : Unity Log] control #1: $Button East
+[Info   : Unity Log] bindingIndex of G : -1; display bindingIndex: 0
+[Info   : Unity Log] Item switch left: rebind controls length: 4
+[Info   : Unity Log] Item switch left: rebind control binding index is 2
+[Info   : Unity Log] control #0: $Scroll/Up
+[Info   : Unity Log] control #1: $Scroll/Down
+[Info   : Unity Log] control #2: $D-Pad/Left
+[Info   : Unity Log] control #3: $D-Pad/Right
+[Info   : Unity Log] bindingIndex of Scroll/Down : 2; display bindingIndex: 2
+[Info   : Unity Log] Item switch right: rebind controls length: 4
+[Info   : Unity Log] Item switch right: rebind control binding index is 1
+[Info   : Unity Log] control #0: $Scroll/Up
+[Info   : Unity Log] control #1: $Scroll/Down
+[Info   : Unity Log] control #2: $D-Pad/Left
+[Info   : Unity Log] control #3: $D-Pad/Right
+[Info   : Unity Log] bindingIndex of Scroll/Up : 1; display bindingIndex: 1
+[Info   : Unity Log] Item inspect: rebind controls length: 2
+[Info   : Unity Log] Item inspect: rebind control binding index is -1
+[Info   : Unity Log] control #0: $Z
+[Info   : Unity Log] control #1: $Left Shoulder
+[Info   : Unity Log] bindingIndex of Z : -1; display bindingIndex: 0
+[Info   : Unity Log] Replace furniture: rebind controls length: 2
+[Info   : Unity Log] Replace furniture: rebind control binding index is -1
+[Info   : Unity Log] control #0: $B
+[Info   : Unity Log] control #1: $Button North
+[Info   : Unity Log] bindingIndex of B : -1; display bindingIndex: 0
+[Info   : Unity Log] Turn furniture: rebind controls length: 1
+[Info   : Unity Log] Turn furniture: rebind control binding index is -1
+[Info   : Unity Log] control #0: $R
+[Info   : Unity Log] bindingIndex of R : -1; display bindingIndex: 0
+[Info   : Unity Log] Store furniture: rebind controls length: 1
+[Info   : Unity Log] Store furniture: rebind control binding index is -1
+[Info   : Unity Log] control #0: $X
+[Info   : Unity Log] bindingIndex of X : -1; display bindingIndex: 0
+[Info   : Unity Log] Dance: rebind controls length: 1
+[Info   : Unity Log] Dance: rebind control binding index is -1
+[Info   : Unity Log] control #0: $1
+[Info   : Unity Log] bindingIndex of 1 : -1; display bindingIndex: 0
+[Info   : Unity Log] Point: rebind controls length: 1
+[Info   : Unity Log] Point: rebind control binding index is -1
+[Info   : Unity Log] control #0: $2
+[Info   : Unity Log] bindingIndex of 2 : -1; display bindingIndex: 0
+[Info   : Unity Log] Enable chat: rebind controls length: 1
+[Info   : Unity Log] Enable chat: rebind control binding index is -1
+[Info   : Unity Log] control #0: $/
+[Info   : Unity Log] bindingIndex of / : -1; display bindingIndex: 0
+[Info   : Unity Log] Submit chat: rebind controls length: 1
+[Info   : Unity Log] Submit chat: rebind control binding index is -1
+[Info   : Unity Log] control #0: $Enter
+[Info   : Unity Log] bindingIndex of Enter : -1; display bindingIndex: 0
+[Info   : Unity Log] Stop Emoting: rebind controls length: 1
+[Info   : Unity Log] Stop Emoting: rebind control binding index is -1
+[Info   : Unity Log] control #0: $0
+[Info   : Unity Log] bindingIndex of 0 : -1; display bindingIndex: 0
+[Info   : Unity Log] Emote3: rebind controls length: 1
+[Info   : Unity Log] Emote3: rebind control binding index is -1
+[Info   : Unity Log] control #0: $F3
+[Info   : Unity Log] bindingIndex of F3 : -1; display bindingIndex: 0
+[Info   : Unity Log] Emote4: rebind controls length: 1
+[Info   : Unity Log] Emote4: rebind control binding index is -1
+[Info   : Unity Log] control #0: $F4
+[Info   : Unity Log] bindingIndex of F4 : -1; display bindingIndex: 0
+[Info   : Unity Log] Emote5: rebind controls length: 1
+[Info   : Unity Log] Emote5: rebind control binding index is -1
+[Info   : Unity Log] control #0: $F5
+[Info   : Unity Log] bindingIndex of F5 : -1; display bindingIndex: 0
+[Info   : Unity Log] Emote6: rebind controls length: 1
+[Info   : Unity Log] Emote6: rebind control binding index is -1
+[Info   : Unity Log] control #0: $F6
+[Info   : Unity Log] bindingIndex of F6 : -1; display bindingIndex: 0
+[Info   : Unity Log] Emote7: rebind controls length: 1
+[Info   : Unity Log] Emote7: rebind control binding index is -1
+[Info   : Unity Log] control #0: $5
+[Info   : Unity Log] bindingIndex of 5 : -1; display bindingIndex: 0
+[Info   : Unity Log] Emote8: rebind controls length: 1
+[Info   : Unity Log] Emote8: rebind control binding index is -1
+[Info   : Unity Log] control #0: $6
+[Info   : Unity Log] bindingIndex of 6 : -1; display bindingIndex: 0
+[Info   : Unity Log] CustomEmote9: rebind controls length: 0
+[Info   : Unity Log] CustomEmote9: rebind control binding index is -1
+[Info   : Unity Log] bindingIndex of  : -1; display bindingIndex: 0
+[Info   : Unity Log] CustomEmote10: rebind controls length: 0
+[Info   : Unity Log] CustomEmote10: rebind control binding index is -1
+[Info   : Unity Log] bindingIndex of  : -1; display bindingIndex: 0
+[Info   : Unity Log] CustomEmote11: rebind controls length: 0
+[Info   : Unity Log] CustomEmote11: rebind control binding index is -1
+[Info   : Unity Log] bindingIndex of  : -1; display bindingIndex: 0
+[Info   : Unity Log] Move forward: rebind controls length: 8
+[Info   : Unity Log] Move forward: rebind control binding index is 6
+[Info   : Unity Log] control #0: $W
+[Info   : Unity Log] control #1: $S
+[Info   : Unity Log] control #2: $A
+[Info   : Unity Log] control #3: $D
+[Info   : Unity Log] control #4: $Left Stick/Up
+[Info   : Unity Log] control #5: $Left Stick/Down
+[Info   : Unity Log] control #6: $Left Stick/Left
+[Info   : Unity Log] control #7: $Left Stick/Right
+[Info   : Unity Log] bindingIndex of Left Stick/Up : 6; display bindingIndex: 6
+[Info   : Unity Log] Move back: rebind controls length: 8
+[Info   : Unity Log] Move back: rebind control binding index is 7
+[Info   : Unity Log] control #0: $W
+[Info   : Unity Log] control #1: $S
+[Info   : Unity Log] control #2: $A
+[Info   : Unity Log] control #3: $D
+[Info   : Unity Log] control #4: $Left Stick/Up
+[Info   : Unity Log] control #5: $Left Stick/Down
+[Info   : Unity Log] control #6: $Left Stick/Left
+[Info   : Unity Log] control #7: $Left Stick/Right
+[Info   : Unity Log] bindingIndex of Left Stick/Down : 7; display bindingIndex: 7
+[Info   : Unity Log] Move left: rebind controls length: 8
+[Info   : Unity Log] Move left: rebind control binding index is 8
+[Info   : Unity Log] control #0: $W
+[Info   : Unity Log] control #1: $S
+[Info   : Unity Log] control #2: $A
+[Info   : Unity Log] control #3: $D
+[Info   : Unity Log] control #4: $Left Stick/Up
+[Info   : Unity Log] control #5: $Left Stick/Down
+[Info   : Unity Log] control #6: $Left Stick/Left
+[Info   : Unity Log] control #7: $Left Stick/Right
+[Info   : Unity Log] bindingIndex of Left Stick/Left : 8; display bindingIndex: 8
+[Info   : Unity Log] Move right: rebind controls length: 8
+[Info   : Unity Log] Move right: rebind control binding index is 9
+[Info   : Unity Log] control #0: $W
+[Info   : Unity Log] control #1: $S
+[Info   : Unity Log] control #2: $A
+[Info   : Unity Log] control #3: $D
+[Info   : Unity Log] control #4: $Left Stick/Up
+[Info   : Unity Log] control #5: $Left Stick/Down
+[Info   : Unity Log] control #6: $Left Stick/Left
+[Info   : Unity Log] control #7: $Left Stick/Right
+[Info   : Unity Log] bindingIndex of Left Stick/Right : 9; display bindingIndex: 9
+[Info   : Unity Log] Jump: rebind controls length: 2
+[Info   : Unity Log] Jump: rebind control binding index is 1
+[Info   : Unity Log] control #0: $Space
+[Info   : Unity Log] control #1: $Button South
+[Info   : Unity Log] bindingIndex of Button South : 1; display bindingIndex: 1
+[Info   : Unity Log] Sprint: rebind controls length: 2
+[Info   : Unity Log] Sprint: rebind control binding index is 1
+[Info   : Unity Log] control #0: $Shift
+[Info   : Unity Log] control #1: $Left Trigger
+[Info   : Unity Log] bindingIndex of Left Trigger : 1; display bindingIndex: 1
+[Info   : Unity Log] Crouch: rebind controls length: 2
+[Info   : Unity Log] Crouch: rebind control binding index is 1
+[Info   : Unity Log] control #0: $Control
+[Info   : Unity Log] control #1: $Right Stick Press
+[Info   : Unity Log] bindingIndex of Right Stick Press : 1; display bindingIndex: 1
+[Info   : Unity Log] Interact: rebind controls length: 2
+[Info   : Unity Log] Interact: rebind control binding index is 1
+[Info   : Unity Log] control #0: $E
+[Info   : Unity Log] control #1: $Button West
+[Info   : Unity Log] bindingIndex of Button West : 1; display bindingIndex: 1
+[Info   : Unity Log] Ping scan: rebind controls length: 2
+[Info   : Unity Log] Ping scan: rebind control binding index is 1
+[Info   : Unity Log] control #0: $Right Button
+[Info   : Unity Log] control #1: $Right Shoulder
+[Info   : Unity Log] bindingIndex of Right Shoulder : 1; display bindingIndex: 1
+[Info   : Unity Log] Item primary use: rebind controls length: 2
+[Info   : Unity Log] Item primary use: rebind control binding index is 1
+[Info   : Unity Log] control #0: $Left Button
+[Info   : Unity Log] control #1: $Right Trigger
+[Info   : Unity Log] bindingIndex of Right Trigger : 1; display bindingIndex: 1
+[Info   : Unity Log] Item secondary use: rebind controls length: 2
+[Info   : Unity Log] Item secondary use: rebind control binding index is 1
+[Info   : Unity Log] control #0: $Q
+[Info   : Unity Log] control #1: $D-Pad/Down
+[Info   : Unity Log] bindingIndex of D-Pad/Down : 1; display bindingIndex: 1
+[Info   : Unity Log] Item tertiary use: rebind controls length: 2
+[Info   : Unity Log] Item tertiary use: rebind control binding index is 1
+[Info   : Unity Log] control #0: $E
+[Info   : Unity Log] control #1: $D-Pad/Up
+[Info   : Unity Log] bindingIndex of D-Pad/Up : 1; display bindingIndex: 1
+[Info   : Unity Log] Item drop: rebind controls length: 2
+[Info   : Unity Log] Item drop: rebind control binding index is 1
+[Info   : Unity Log] control #0: $G
+[Info   : Unity Log] control #1: $Button East
+[Info   : Unity Log] bindingIndex of Button East : 1; display bindingIndex: 1
+[Info   : Unity Log] Item switch left: rebind controls length: 4
+[Info   : Unity Log] Item switch left: rebind control binding index is 5
+[Info   : Unity Log] control #0: $Scroll/Up
+[Info   : Unity Log] control #1: $Scroll/Down
+[Info   : Unity Log] control #2: $D-Pad/Left
+[Info   : Unity Log] control #3: $D-Pad/Right
+[Info   : Unity Log] bindingIndex of D-Pad/Right : 5; display bindingIndex: 5
+[Info   : Unity Log] Item switch right: rebind controls length: 4
+[Info   : Unity Log] Item switch right: rebind control binding index is 4
+[Info   : Unity Log] control #0: $Scroll/Up
+[Info   : Unity Log] control #1: $Scroll/Down
+[Info   : Unity Log] control #2: $D-Pad/Left
+[Info   : Unity Log] control #3: $D-Pad/Right
+[Info   : Unity Log] bindingIndex of D-Pad/Left : 4; display bindingIndex: 4
+[Info   : Unity Log] Dance: rebind controls length: 1
+[Info   : Unity Log] Dance: rebind control binding index is 1
+[Info   : Unity Log] control #0: $1
+[Info   : Unity Log] bindingIndex of  : 1; display bindingIndex: 1
+[Info   : Unity Log] Point: rebind controls length: 1
+[Info   : Unity Log] Point: rebind control binding index is 1
+[Info   : Unity Log] control #0: $2
+[Info   : Unity Log] bindingIndex of  : 1; display bindingIndex: 1
+[Info   : Unity Log] Stop Emoting: rebind controls length: 1
+[Info   : Unity Log] Stop Emoting: rebind control binding index is 1
+[Info   : Unity Log] control #0: $0
+[Info   : Unity Log] bindingIndex of  : 1; display bindingIndex: 1
+[Info   : Unity Log] Emote3: rebind controls length: 1
+[Info   : Unity Log] Emote3: rebind control binding index is 1
+[Info   : Unity Log] control #0: $F3
+[Info   : Unity Log] bindingIndex of  : 1; display bindingIndex: 1
+[Info   : Unity Log] Emote4: rebind controls length: 1
+[Info   : Unity Log] Emote4: rebind control binding index is 1
+[Info   : Unity Log] control #0: $F4
+[Info   : Unity Log] bindingIndex of  : 1; display bindingIndex: 1
+[Info   : Unity Log] Emote5: rebind controls length: 1
+[Info   : Unity Log] Emote5: rebind control binding index is 1
+[Info   : Unity Log] control #0: $F5
+[Info   : Unity Log] bindingIndex of  : 1; display bindingIndex: 1
+[Info   : Unity Log] Emote6: rebind controls length: 1
+[Info   : Unity Log] Emote6: rebind control binding index is 1
+[Info   : Unity Log] control #0: $F6
+[Info   : Unity Log] bindingIndex of  : 1; display bindingIndex: 1
+[Info   : Unity Log] Emote7: rebind controls length: 1
+[Info   : Unity Log] Emote7: rebind control binding index is 1
+[Info   : Unity Log] control #0: $5
+[Info   : Unity Log] bindingIndex of  : 1; display bindingIndex: 1
+[Info   : Unity Log] Emote8: rebind controls length: 1
+[Info   : Unity Log] Emote8: rebind control binding index is 1
+[Info   : Unity Log] control #0: $6
+[Info   : Unity Log] bindingIndex of  : 1; display bindingIndex: 1
+[Info   : Unity Log] CustomEmote9: rebind controls length: 0
+[Info   : Unity Log] CustomEmote9: rebind control binding index is 1
+[Info   : Unity Log] bindingIndex of  : 1; display bindingIndex: 1
+[Info   : Unity Log] CustomEmote10: rebind controls length: 0
+[Info   : Unity Log] CustomEmote10: rebind control binding index is 1
+[Info   : Unity Log] bindingIndex of  : 1; display bindingIndex: 1
+[Info   : Unity Log] CustomEmote11: rebind controls length: 0
+[Info   : Unity Log] CustomEmote11: rebind control binding index is 1
+[Info   : Unity Log] bindingIndex of  : 1; display bindingIndex: 1
+[Info   : Unity Log] Flashlight: rebind controls length: 1
+[Info   : Unity Log] Flashlight: rebind control binding index is -1
+[Info   : Unity Log] control #0: $f
+[Info   : Unity Log] bindingIndex of f : -1; display bindingIndex: 0
+[Warning: Unity Log] [Dissonance:Recording] (21:47:00.977) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (21:47:01.016) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0.1833298)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   : Unity Log] Rebinding starting.. rebindIndex: 0
+[Info   : Unity Log] Rebinding starting.. B
+[Info   : Unity Log] Setting binding index to default which is 0
+[Info   : Unity Log] Rebinding finishing.. A
+[Info   : Unity Log] Rebinding finishing.. B
+[Info   : Unity Log] Rebinding starting.. rebindIndex: 0
+[Info   : Unity Log] Rebinding starting.. B
+[Info   : Unity Log] Setting binding index to default which is 0
+[Info   : Unity Log] Rebinding finishing.. A
+[Info   : Unity Log] Rebinding finishing.. B
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] Saving changed settings
+[Info   : Unity Log] Changing gamma
+[Info   : Unity Log] override float value: 0
+[Info   : Unity Log] Overriding float
+[Info   : Unity Log] Gamma changed
+[Info   : Unity Log] Set gamma to new value: 0; (0.00, 0.00, 0.00, 0.00) (True)
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] Discarding changed settings
+[Info   : Unity Log] Changing gamma
+[Info   : Unity Log] override float value: 0
+[Info   : Unity Log] Overriding float
+[Info   : Unity Log] Gamma changed
+[Info   : Unity Log] Set gamma to new value: 0; (0.00, 0.00, 0.00, 0.00) (True)
 [Info   : Unity Log] PLAYER OPENED MENU
 [Info   : Unity Log] In terminal menu: False
 [Info   : Unity Log] PLAYER OPENED MENU
@@ -514,12 +955,76 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Info   : Unity Log] PLAYER OPENED MENU
 [Info   : Unity Log] In terminal menu: False
 [Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 3
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] performing emote 4
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
 [Info   : Unity Log] Leaving current lobby
 [Info   : Unity Log] Disconnecting and setting networkobjects to destroy with owner
 [Info   : Unity Log] Got no ship grabbable items to save.
 [Info   : Unity Log] Shutting down and disconnecting from server. Is host?: True
 [Info   : Unity Log] [Netcode] Shutdown
-[Warning: Unity Log] [Dissonance:Recording] (21:40:06.575) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (21:47:20.719) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
 [Info   : Unity Log] [Netcode] ShutdownInternal
 [Info   : Unity Log] [FacepunchTransport] - Shutting down.
 [Info   : Unity Log] [Netcode] NetworkConnectionManager.Shutdown() -> IsListening && NetworkTransport != null -> NetworkTransport.Shutdown()
@@ -657,7 +1162,36 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
 [Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
 [Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Info   : Unity Log] DISABLING connection callbacks in round manager
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
 [Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
 [Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
 [Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
@@ -674,6 +1208,46 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
 [Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
 [Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager OnDestroy
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Info   : Unity Log] DISABLING connection callbacks in round manager
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
 [Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
 [Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
 [Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
@@ -711,76 +1285,8 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
 [Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
 [Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Warning: Unity Log] [Netcode] NetworkBehaviour-ChangableSuit(Clone) is being destroyed while NetworkObject-ChangableSuit(Clone) is still spawned! (could break state synchronization)
-[Info   :LethalExpansion] Unloading scene: SampleSceneRelay
 [Info   : Unity Log] Set version num
 [Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
-[Info   :LethalExpansion] Loading scene: MainMenu
 [Info   : Unity Log] Changing gamma
 [Info   : Unity Log] override float value: 0
 [Info   : Unity Log] Overriding float
@@ -790,6 +1296,11 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Info   : Unity Log] Leaving current lobby
 [Info   : Unity Log] Disconnecting and setting networkobjects to destroy with owner
 [Info   : Unity Log] Server is not active; quitting to main menu
-[Info   :LethalExpansion] Unloading scene: MainMenu
 [Info   : Unity Log] Set version num
-[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world ori
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   : Unity Log] Changing gamma
+[Info   : Unity Log] override float value: 0
+[Info   : Unity Log] Overriding float
+[Info   : Unity Log] Gamma changed
+[Info   : Unity Log] Set gamma to new value: 0; (0.00, 0.00, 0.00, 0.00) (True)
+[Info   : Unity Log] unsubscribing from steam callbacks
